@@ -1,0 +1,144 @@
+body {
+    color: white;
+}
+.Header1{
+    color:black;
+    height: 50px;
+    width: 100px;
+    padding-bottom: 10px;
+}
+.squarewhite{
+    background-color: white;
+    height: 101px;
+    width: 100px;
+}
+.box1{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(160,45,136);
+    margin-bottom: 2px;
+ }
+/*purple1*/
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(160,45,136);
+}
+
+.box2{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(160,45,136);
+    margin-bottom: 60px;
+}
+.box3{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(160,45,136);
+    float: left;
+    margin-right: 10px;
+}
+.box31{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(160,45,136);
+    float: left;
+    margin-right: 10px;
+}
+.box32{
+    height: 100px;
+    width: 125px;
+    background-color: rgb(133,108,166);
+    float: left;
+    margin-right: 10px;
+}
+.box33{
+    height: 100px;
+    width: 175px;
+    background-color: rgb(0,76,140);
+    float: left;
+    margin-right: 10px;
+}
+.box34{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(0,150,115);
+    float: left;
+    margin-right: 20px;
+}
+.box35{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(0,150,115);
+    float: left;
+}
+
+/*purple2*/
+.boxA{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(133,108,166);
+}
+
+.box2A{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(133,108,166);
+    margin-bottom: 60px;
+}
+
+/*blue*/
+.boxB{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(0,76,140);
+}
+
+.box2B{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(0,76,140);
+    margin-bottom: 60px;
+}
+
+/*green*/
+.boxC{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(0,150,115);
+}
+
+.box2C{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(0,150,115);
+    margin-bottom: 60px;
+}
+
+
+/*charts*/
+.chart{
+    float: left;
+    margin-right: 10px;
+}
+.chart1{
+    float: left;
+    margin-right: 40px;
+}
+.chart2{
+    float: left;
+    margin-right: 10px;
+}
+.chart3{
+    float: left;
+    margin-right: 20px;
+}
+.chart1{
+    float: left;
+    margin-right: 40px;
+}
+
+.bottom{
+    clear: both;
+
+}
